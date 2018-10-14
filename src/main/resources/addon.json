@@ -1,7 +1,6 @@
 {
-  "name":"Addon Example",
-  "version":"1.0",
-  "mainClass":"com.example.AddonExample",
-  "desc":"Hyperium Addon Example",
-  "overlay":"com.example.overlay.OverlayExample"
+  "name": "20 20 20 Addon",
+  "version": "1.0",
+  "mainClass": "io.asbyth.TTT",
+  "desc": "Sk1er's 20 20 20 mod ported into an addon for Hyperium"
 }
